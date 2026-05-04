@@ -55,7 +55,7 @@ const services = [
 
 const properties = [
   {
-    title: "فيلا فاخرة بحي النرجس",
+    title: "فيلا فاخرة بحي العارض",
     price: "4.8 مليون ريال",
     location: "الرياض، حي النرجس",
     area: "620 م²",
